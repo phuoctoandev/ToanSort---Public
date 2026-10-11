@@ -1,0 +1,6 @@
+﻿  Algorithm Sort.cpp
+E:\Algorithm Sort\Algorithm Sort\Algorithm Sort.cpp(79,25): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+E:\Algorithm Sort\Algorithm Sort\Algorithm Sort.cpp(79,38): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+E:\Algorithm Sort\Algorithm Sort\Algorithm Sort.cpp(101,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Algorithm Sort\Algorithm Sort\Algorithm Sort.cpp(105,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Algorithm Sort.vcxproj -> E:\Algorithm Sort\x64\Debug\Algorithm Sort.exe
